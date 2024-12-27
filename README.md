@@ -1,2 +1,2 @@
 # Datican
-This is breast cancer image analysis project
+This is a breast cancer image analysis project
